@@ -31,7 +31,7 @@
     "electron-builder": "^24.4.0"
   },
   "build": {
-    "productName": "Google Docs Study",
+    "productName": "Google-Docs-Study",
     "appId": "com.litongjava.google.docs.study",
     "directories": {
       "output": "dist"
